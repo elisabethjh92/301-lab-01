@@ -1,0 +1,78 @@
+@media (min-width: 768px) {
+    
+    body {
+        width: 960px;
+    }
+
+    #boxA {
+        width: 100%
+        height: /* target divided by context = result ... will do math later */
+        line-height: 100px;
+        clear: left;
+        background-color: red;
+    }
+
+    #boxB {
+        width: 200px;
+        height: /* target divided by context = result ... will do math later */
+        line-height: 600px;
+        float: left;
+        background-color: orange;
+    }
+
+    #boxC {
+        width: /* will do math later */
+        height: /* will do math later */
+        line-height: 200px;
+        display: inline-block;
+        background-color: yellow;
+    }
+
+    #boxD {
+        width: /* will do math later */
+        height: /* will do math later */
+        line-height: 200px;
+        display: inline-block;
+        background-color: green;
+    }
+
+    #boxE {
+        width: /* will do math later */
+        height: /* will do math later */
+        line-height: 250px;
+        display: inline-block;
+        background-color: blue;
+    }
+
+    #boxF {
+        width: /* will do math later */
+        height: /* will do math later */
+        line-height: 250px;
+        display: inline-block;
+        background-color: indigo;
+    }
+
+    #boxG {
+        width: /* will do math later */
+        height: /* will do math later */
+        line-height: 250px;
+        display: inline-block;
+        background-color: purple;
+    }
+
+    #boxH {
+        width: /* will do math later */
+        height: /* will do math later */
+        line-height: 250px;
+        display: inline-block;
+        background-color: pink;
+    }
+
+    #boxI {
+        width: /* will do math later */
+        height: /* will do math later */
+        line-height: 150px;
+        display: inline-block;
+        color: aqua;
+    }
+}
